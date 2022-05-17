@@ -698,5 +698,15 @@
     "category": "Health",
     "status": "Out of Stock",
     "quantity": 0
+  },
+  {
+    "id": "e6f9f750-d5ae-11ec-ab29-0f5df9a9c991",
+    "warehouseID": "2baa74b963310b88db7cb44712d5cf93",
+    "warehouseName": "Stockyards",
+    "itemName": "XYZ Chips",
+    "description": "The best chips in the market",
+    "category": "Electronics",
+    "status": "In Stock",
+    "quantity": "6"
   }
 ]

@@ -102,5 +102,18 @@
       "phone": "+1 (646) 123-1234",
       "email": "vmendoza@instock.com"
     }
+  },
+  {
+    "id": "2baa74b963310b88db7cb44712d5cf93",
+    "name": "Stockyards",
+    "address": "2525 St Claire Avenue West",
+    "city": "Toronto",
+    "country": "Canada",
+    "contact": {
+      "name": "Sayem Mohd Farhad",
+      "position": "Omni Department Manager",
+      "phone": "(437) 437-4378",
+      "email": "sayemfarhad001@gmail.com"
+    }
   }
 ]
